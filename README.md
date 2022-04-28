@@ -1,1 +1,1 @@
-# tic_tac_toe-app-logic
+# Tic Tac Toe logic
